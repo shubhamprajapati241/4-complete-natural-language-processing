@@ -1,3 +1,5 @@
 nltk
 ipykernel
 numpy
+scikit-learn
+gensim
